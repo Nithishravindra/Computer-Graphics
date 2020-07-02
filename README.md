@@ -5,7 +5,7 @@ It supports view from all angles. Accleration can be controlled along with direc
 
 ## Usuage 
 
-### Complie
+### Compile
 ```
   g++ -framework OpenGL -framework GLUT -w main.cpp -o main.o
 ```
